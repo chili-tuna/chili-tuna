@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chili-tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=chili-tuna&show_icons=true&count_private=true&commits_year=2020)
+![chili-tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=chili-tuna&show_icons=true&count_private=true&commits_year=2025)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chili-tuna&layout=compact&commits_year=2020)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chili-tuna&layout=compact&commits_year=2025)
